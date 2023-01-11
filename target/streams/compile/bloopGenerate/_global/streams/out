@@ -1,0 +1,4 @@
+[debug] [spark-scala] Classpath dependencies List()
+[debug] [spark-scala] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'spark-scala' to 'C:\Projects\spark\spark-scala\.bloop\spark-scala.json'
+[success] Generated .bloop\spark-scala.json

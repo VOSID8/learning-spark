@@ -1,0 +1,153 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "spark-scala-test",
+        "directory": "C:\\Projects\\spark\\spark-scala",
+        "workspaceDir": "C:\\Projects\\spark\\spark-scala",
+        "sources": [
+            "C:\\Projects\\spark\\spark-scala\\src\\test\\scala",
+            "C:\\Projects\\spark\\spark-scala\\src\\test\\scala-2.12",
+            "C:\\Projects\\spark\\spark-scala\\src\\test\\scala-2",
+            "C:\\Projects\\spark\\spark-scala\\src\\test\\java",
+            "C:\\Projects\\spark\\spark-scala\\target\\scala-2.12\\src_managed\\test",
+            "C:\\Projects\\spark\\spark-scala\\wtf.scala"
+        ],
+        "dependencies": [
+            "spark-scala"
+        ],
+        "classpath": [
+            "C:\\Projects\\spark\\spark-scala\\.bloop\\spark-scala\\scala-2.12\\classes",
+            "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-library.jar"
+        ],
+        "out": "C:\\Projects\\spark\\spark-scala\\.bloop\\spark-scala",
+        "classesDir": "C:\\Projects\\spark\\spark-scala\\.bloop\\spark-scala\\scala-2.12\\test-classes",
+        "resources": [
+            "C:\\Projects\\spark\\spark-scala\\src\\test\\resources",
+            "C:\\Projects\\spark\\spark-scala\\target\\scala-2.12\\resource_managed\\test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.16",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-library.jar",
+                "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-compiler.jar",
+                "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-reflect.jar",
+                "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-xml_2.12-1.0.6.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk1.8.0_333\\jre",
+                "options": [
+                    "-Duser.dir=C:\\Projects\\spark\\spark-scala"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.16",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Siddh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.16\\scala-library-2.12.16-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.16",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Siddh\\.sbt\\boot\\scala-2.12.16\\lib\\scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Siddh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.16\\scala-library-2.12.16-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+1669236776503:ls
+1669236790353:ls -l
+1669236802488:println("hi")
+1669236808809:
+1669236815701:println(2)
+1669236821897://
+1669236822700:/
+1669294325668:scala "c:\\Projects\\spark\\spark-scala\\learningspark\\wtf.scala"
+1669294363985:scala "c:\\Projects\\spark\\spark-scala\\learningspark\\src\\main\\scala\\Main.scala"
+1669294410241:scala "c:\\Projects\\spark\\spark-scala\\learningspark\\src\\test\\scala\\MySuite.scala"
+1669294427974:scala "c:\\Projects\\spark\\spark-scala\\learningspark\\src\\main\\scala\\Main.scala"
+1673252276753:exit
+1673379241597:run
+1673379245461:exit

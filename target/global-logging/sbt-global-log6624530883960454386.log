@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(scala "c:Projectssparkspark-scalalearningsparksrctestscalaMySuite.scala", Some(cb8e0ada-c7dc-48a8-abcc-30c28b061d39), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: scala (similar: alias, last, eval)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: scala (similar: scalaHome, scalaSource, clean)[0m
+[0m[[0m[31merror[0m] [0m[0mscala "c:Projectssparkspark-scalalearningsparksrctestscalaMySuite.scala"[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-9a2fbf608813092ccdeb. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-9a2fbf608813092ccdeb_lock, error 5[0m

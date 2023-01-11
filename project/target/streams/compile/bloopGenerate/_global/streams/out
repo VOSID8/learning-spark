@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[spark-scala-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[spark-scala-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'spark-scala-build' to 'C:\Projects\spark\spark-scala\project\.bloop\spark-scala-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\spark-scala-build.json[0m
